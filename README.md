@@ -1,4 +1,4 @@
-# Movie_recommendation
+# Movie recommendation using Cosine similarity algorithm
 This Streamlit app is a simple movie recommendation system that allows users to select a movie from a dropdown list and receive recommendations for the top 5 similar movies.
 
 Features
